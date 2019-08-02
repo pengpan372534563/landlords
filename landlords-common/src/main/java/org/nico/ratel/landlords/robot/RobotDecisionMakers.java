@@ -10,7 +10,7 @@ import org.nico.ratel.landlords.entity.PokerSell;
 /**
  * How does the machine decide on a better strategy to win the game
  * 
- * @author nico
+ * @author pengpan
  */
 public class RobotDecisionMakers {
 	

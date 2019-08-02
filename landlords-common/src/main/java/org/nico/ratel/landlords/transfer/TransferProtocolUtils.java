@@ -6,8 +6,8 @@ import org.nico.ratel.landlords.exception.LandlordException;
 /**
  * Protocol transport related tools
  * 
- * @author nico
- * @time 2018-11-01 20:43
+ * @author pengpan
+ * @time 2019-08-02 14:50
  */
 public class TransferProtocolUtils {
 	

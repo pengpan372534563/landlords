@@ -5,9 +5,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Poker level
- * 
- * @author nico
+ *
+ * @author pengpan
  */
 public enum PokerLevel{
 

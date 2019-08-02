@@ -3,7 +3,7 @@ package org.nico.ratel.landlords.transfer;
 /**
  * Byte manipulation tool
  * 
- * @author nico
+ * @author pengpan
  */
 public class ByteKit {
 

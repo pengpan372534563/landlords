@@ -10,8 +10,7 @@ import org.nico.ratel.landlords.helper.PokerHelper;
 
 /** 
  * 
- * @author nico
- * @version createTime：2018年11月15日 上午12:13:49
+ * @author pengpan
  */
 
 public class SimpleRobotDecisionMakers extends AbstractRobotDecisionMakers{

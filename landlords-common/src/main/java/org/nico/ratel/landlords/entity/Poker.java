@@ -6,7 +6,7 @@ import org.nico.ratel.landlords.enums.PokerType;
 /**
  * Poke, with {@link PokerLevel} and {@link PokerType}
  * 
- * @author nico
+ * @author pengpan
  */
 public class Poker{
 	

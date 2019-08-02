@@ -19,7 +19,7 @@ import org.nico.ratel.landlords.server.robot.RobotEventListener;
 
 /** 
  * 
- * @author nico
+ * @author pengpan
  */
 
 public class RoomClearTask extends TimerTask{

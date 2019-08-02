@@ -7,8 +7,7 @@ import org.nico.ratel.landlords.entity.PokerSell;
 
 /** 
  * 
- * @author nico
- * @version createTime：2018年11月15日 上午12:12:15
+ * @author pengpan
  */
 
 public abstract	class AbstractRobotDecisionMakers {
